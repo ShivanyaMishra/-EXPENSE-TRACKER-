@@ -1,0 +1,6 @@
+{
+  "name": "AetherFinance - Futuristic AI Personal Finance Management",
+  "description": "Next-generation personal finance suite with AI financial advisor, 3D expense analytics, real-time smart budgeting, anomaly detection, and multi-sheet reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
